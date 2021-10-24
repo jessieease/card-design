@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/card-design/static/css/main.3fd32f2a.chunk.css",
+    "main.js": "/card-design/static/js/main.d731cc50.chunk.js",
+    "main.js.map": "/card-design/static/js/main.d731cc50.chunk.js.map",
+    "runtime-main.js": "/card-design/static/js/runtime-main.995ecdcd.js",
+    "runtime-main.js.map": "/card-design/static/js/runtime-main.995ecdcd.js.map",
+    "static/js/2.066a9c96.chunk.js": "/card-design/static/js/2.066a9c96.chunk.js",
+    "static/js/2.066a9c96.chunk.js.map": "/card-design/static/js/2.066a9c96.chunk.js.map",
+    "index.html": "/card-design/index.html",
+    "static/css/main.3fd32f2a.chunk.css.map": "/card-design/static/css/main.3fd32f2a.chunk.css.map",
+    "static/js/2.066a9c96.chunk.js.LICENSE.txt": "/card-design/static/js/2.066a9c96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.995ecdcd.js",
+    "static/js/2.066a9c96.chunk.js",
+    "static/css/main.3fd32f2a.chunk.css",
+    "static/js/main.d731cc50.chunk.js"
+  ]
+}
